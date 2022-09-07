@@ -1,6 +1,6 @@
 # PortfolioPage
 
-# This is my portfolio page.  I used a template from bootstrapmade.com
+### This is my portfolio page, updated and added to as time goes on.  Constantly improving
 
 <img src="ScreenShot.png" width="700px" />
 
